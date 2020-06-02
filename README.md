@@ -125,6 +125,8 @@ import { MatPaginatorModule } from '@angular/material/paginator';
 
 ### Contact me
 
-If you have any trouble or questions, or need other assistance, please reach out to me through my [github profile](https://github.com/hlesesne) or on twitter at [@hallesesne](https://twitter.com/hallesesne).
+If you have any trouble or questions, or need other assistance, please reach out to me through my [github profile](https://github.com/hlesesne) or on twitter at [@hallesesne](https://twitter.com/hallesesne). 
+
+Also, please PR or open an issue if there is anything I can improve on (of if you'd like to add other examples).
 
 
