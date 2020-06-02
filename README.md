@@ -8,11 +8,6 @@ Prerequisites:
 - [Angular CLI](https://cli.angular.io/)
 - [npm](https://www.npmjs.com/get-npm)
 
-Other docs:
-- [Angular Flex-Layout Wiki](https://github.com/angular/flex-layout/wiki)
-- [Angular material](https://material.angular.io/)
-- [Lorem Picsum](https://picsum.photos/)
-
 ```
 git clone --depth 1 git@github.com:hlesesne/example-flex-layout.git
 cd example-flex-layout
@@ -21,6 +16,12 @@ ng serve --ssl
 navigate to https://localhost:4200 and accept the self signed certificate
 Resize your browser to see how the mat-cards adjust based on viewport
 ```
+
+Other docs:
+- [Angular Flex-Layout Wiki](https://github.com/angular/flex-layout/wiki)
+- [Angular material](https://material.angular.io/)
+- [Lorem Picsum](https://picsum.photos/)
+
 
 ## Interesting bits
 
