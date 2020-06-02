@@ -16,7 +16,7 @@ ng serve --ssl
 ### [app.component.html - use of fxFlex.{responsive} to render for different viewports](https://github.com/hlesesne/example-flex-layout/blob/master/src/app/app.component.html#L3)
 
 ```html
-    <div class="flex-item" fxFlex.gt-lg="20" fxFlex.gt-sm="25" fxFlex.gt-xs="50" fxFlex.xs="100"
+    <div class="flex-item" fxFlex.gt-lg="20" fxFlex.gt-sm="25" fxFlex.gt-xs="50" fxFlex.xs="100">
 ```
     if viewPortSize greater than large, segment by 20 units (per 100 units)
     else if viewPortSize greater than small, segment by 25 units
