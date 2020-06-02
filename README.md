@@ -24,11 +24,10 @@ Resize your browser to see how the mat-cards adjust based on viewport
 ```html
     <div class="flex-item" fxFlex.gt-lg="20" fxFlex.gt-sm="25" fxFlex.gt-xs="50" fxFlex.xs="100">
 ```
-Psudo:
     if viewPortSize greater than large, segment by 20 units (per 100 units)
     else if viewPortSize greater than small, segment by 25 units
     else if viewPortSize greater than extra small, segment by 50 units
-    else if viewPortSize extrasmall, segment by 100 units (full width)    
+    else if viewPortSize extra-small, segment by 100 units (full width)    
 
 ### [app.component.css - make img responsive inside the mat-card](https://github.com/hlesesne/example-flex-layout/blob/master/src/app/app.component.css#L28)
 
