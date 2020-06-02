@@ -4,6 +4,10 @@ This is just a very basic layout that sizes to different viewports by splitting 
 
 ## Running
 
+Prerequisites:
+- [Angular CLI](https://cli.angular.io/)
+- [npm](https://www.npmjs.com/get-npm)
+
 ```
 git clone --depth 1 git@github.com:hlesesne/example-flex-layout.git
 cd example-flex-layout
@@ -118,5 +122,9 @@ import { MatPaginatorModule } from '@angular/material/paginator';
 ```html
 <img [src]="column.image + '?cachebreaker=' + column.id" />
 ```
+
+### Contact me
+
+If you have any trouble or questions, or need other assistance, please reach out to me through my [github profile](https://github.com/hlesesne) or on twitter at [@hallesesne](https://twitter.com/hallesesne).
 
 
