@@ -1,0 +1,15 @@
+<div class="container">
+  <div fxLayout="row wrap">
+    <div class="flex-item" fxFlex.gt-lg="20" fxFlex.gt-sm="25" fxFlex.gt-xs="50" fxFlex.xs="100"
+      *ngFor="let column of columns">
+      <mat-card class="min-height-small mat-elevation-z24">
+        <mat-card-title>
+          {{column.id}} is the column id.
+        </mat-card-title>
+        <mat-card-content>
+          <img [src]="column.image + '?cachebreaker=' + column.id" />
+        </mat-card-content>
+      </mat-card>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,31 @@
+div.container {
+    padding-right: .5rem;
+    padding-left: .5rem;
+    padding-top: .2rem;
+    padding-bottom: .2rem;
+}
+div.flex-item {
+    margin-top: 1.5rem;
+    padding-top: .2rem;
+    padding-bottom: .2rem;
+    padding-left: .5rem;
+    padding-right: .5rem;
+}
+
+.min-width-medium {
+    min-width: 350px;
+}
+
+.min-height-medium {
+    min-height: 350px;
+}
+
+.min-height-small {
+    min-height: 200px;
+}
+
+
+.mat-card img {
+    width: 100%;
+    height: auto;
+}
