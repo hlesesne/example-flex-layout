@@ -39,7 +39,7 @@ Psudo:
 }
 ```
 
-### [app.module.ts - since this is just an example, import all angular material modules to make life easier (avoid in production)]()
+### [app.module.ts - since this is just an example, import all angular material modules to make life easier (avoid in production)](https://github.com/hlesesne/example-flex-layout/blob/master/src/app/app.module.ts)
 
 ```typescript
 import { MatCheckboxModule } from '@angular/material/checkbox';
