@@ -8,6 +8,10 @@ Prerequisites:
 - [Angular CLI](https://cli.angular.io/)
 - [npm](https://www.npmjs.com/get-npm)
 
+Other docs:
+- [Angular Flex-Layout Wiki](https://github.com/angular/flex-layout/wiki)
+- [Angular material](https://material.angular.io/)
+
 ```
 git clone --depth 1 git@github.com:hlesesne/example-flex-layout.git
 cd example-flex-layout
