@@ -11,6 +11,7 @@ Prerequisites:
 Other docs:
 - [Angular Flex-Layout Wiki](https://github.com/angular/flex-layout/wiki)
 - [Angular material](https://material.angular.io/)
+- [Lorem Picsum](https://picsum.photos/)
 
 ```
 git clone --depth 1 git@github.com:hlesesne/example-flex-layout.git
