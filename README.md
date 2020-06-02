@@ -9,6 +9,8 @@ git clone --depth 1 git@github.com:hlesesne/example-flex-layout.git
 cd example-flex-layout
 npm install
 ng serve --ssl
+navigate to https://localhost:4200 and accept the self signed certificate
+Resize your browser to see how the mat-cards adjust based on viewport
 ```
 
 ## Interesting bits
@@ -18,6 +20,7 @@ ng serve --ssl
 ```html
     <div class="flex-item" fxFlex.gt-lg="20" fxFlex.gt-sm="25" fxFlex.gt-xs="50" fxFlex.xs="100">
 ```
+Psudo:
     if viewPortSize greater than large, segment by 20 units (per 100 units)
     else if viewPortSize greater than small, segment by 25 units
     else if viewPortSize greater than extra small, segment by 50 units
