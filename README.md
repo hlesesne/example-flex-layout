@@ -68,12 +68,14 @@ import { MatPaginatorModule } from '@angular/material/paginator';
 
 // ... other stuff
 
-//imports: [ // commented out because there are other items. The uncommented modules should just be added to your existing imports array.
+//imports: [ 
+// commented out because there are other items. The uncommented
+// modules should just be added to your existing imports array.
 //    BrowserModule,
 //    AppRoutingModule,
 //    FlexLayoutModule,
 //    BrowserAnimationsModule,
-    // angular material
+// all angular material modules
     MatCheckboxModule,
     MatCheckboxModule,
     MatButtonModule,
